@@ -2,7 +2,7 @@
 
 We provide the instructions for each dataset.
 
-**Due to privacy protection policies, we are unable to provide the dataset. You can clean the dataset and place it in this folder.** 
+**Due to double blind policies, we are unable to provide the link to the dataset. You can clean the dataset and place it in this folder.** 
 
 ### Examples:
 
